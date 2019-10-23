@@ -1,6 +1,6 @@
 """
 read_db.py
-pymysql 读操作演示
+pymysql 读操作
 """
 import pymysql
 
